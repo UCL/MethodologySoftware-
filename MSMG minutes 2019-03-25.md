@@ -72,7 +72,7 @@ Kevin McGrath, Ian White, David Fisher (phoned in), James Carpenter**
         out we are still in the learning phase and hoped colleagues
         would gradually become familiar with Github. He hoped to send a
         link to the minutes of this meeting as a markdown document in
-        Github which people could edit... He suggested a possible use of
+        Github which people could edit. He suggested a possible use of
         Github could be to act as a version control management system
         for the department documents if colleagues could be persuaded to
         write them as markdown documents. James suggested the SOPs could
